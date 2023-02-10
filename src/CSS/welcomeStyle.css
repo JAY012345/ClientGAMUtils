@@ -1,0 +1,17 @@
+.nav-link {
+    color: grey;
+    font-family: sans-serif;
+
+    font-size: larger;
+    
+  }
+
+
+  .nav-link:hover, .nav-link:active {
+    background-color: grey;
+    color: white;
+    
+    
+  }
+
+
