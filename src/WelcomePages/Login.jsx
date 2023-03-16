@@ -7,6 +7,8 @@ import WelcomePage from "../Components/WelcomePage";
 
 
 
+
+
 const Login = () => {
 
     const navigate = useNavigate();
@@ -41,6 +43,7 @@ const Login = () => {
                 <span class="fas fa-key"></span>
                 <input type="password" name="password" id="pwd" placeholder="Password"/>
             </div>
+
             <button type="submit" class="btn mt-3">Login</button>
         </form>
         <div class="text-center fs-6">

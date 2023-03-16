@@ -33,16 +33,16 @@ const WelcomePage = () => {
   <a class="navbar-brand" href="#">GAMUtils</a>
   <ul class="nav nav-pills">
     <li class="nav-item">
-      <a class="nav-link" href="/Intro">Welcome</a>
+      <a class="nav-link" href="/intro">Welcome</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="/AboutUs">About Us</a>
+      <a class="nav-link" href="/aboutUs">About Us</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="/ContactUs">Contact Us</a>
+      <a class="nav-link" href="/contactUs">Contact Us</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="/Login">Login</a>
+      <a class="nav-link" href="/login">Login</a>
     </li>
 
   </ul>

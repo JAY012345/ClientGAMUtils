@@ -37,8 +37,9 @@ a {
   transition: 0.3s;
 }
 .nav_link:hover {
-  color: white;
-  background-color: grey;
+  color: black;
+  font-size:large
+
 }
 
 .show {
